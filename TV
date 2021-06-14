@@ -120,7 +120,7 @@ http://51.222.105.5:8081/tecno/TNT_Series.TecnoByte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80807_dark_360w_270h.png",TNT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=126&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=126&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=126&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s19246_dark_360w_270h.png",TCM
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=128&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66349_dark_360w_270h.png",SPACE
@@ -128,7 +128,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4p
 #EXTINF:-1, AMC 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=131&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="CINEMA", AMC HD 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=328&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=328&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s29017_dark_360w_270h.png",STUDIO UNIVERSAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=132&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="CINEMA", STUDIO UNIVERSAL HD 
