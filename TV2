@@ -10,10 +10,6 @@ http://71.187.29.220:8000/play/a08b/index.m3u8
 #EXTGRP:Locales
 http://71.187.29.220:8000/play/a07t/index.m3u8
 
-
-#EXTINF:-1,MX | TUDN
-#EXTGRP:Deportes
-http://51.222.105.5:8081/tecno/tdn.BKR/chunks.m3u8
 #EXTINF:-1,MX | ESPN 1 NORTE
 #EXTGRP:Deportes
 http://51.222.105.5:8081/tecno/Espn1.BKR/chunks.m3u8
@@ -39,11 +35,6 @@ http://51.222.105.5:8081/tecno/FoxSports3.BKR/chunks.m3u8
 #EXTGRP:Deportes
 http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 #EXTINF:-1,Claro Sports MX
-#EXTGRP:Deportes
-https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/live-audio_track_0_0_und=128000-video_track=2000000.m3u8
-
-
-
 #EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png",STAR LIFE
 http://51.222.105.5:8081/tecno/Foxlife.TecnoByte/chunks.m3u8
 #EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
@@ -66,7 +57,6 @@ http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 http://51.222.105.5:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO FAMILY
 http://51.222.105.5:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-
 #EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/340?cb=20201202010915&path-prefix=es",GOLDEN PREMIER
 http://51.222.105.5:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV
@@ -87,18 +77,6 @@ http://51.222.105.5:8081/tecno/DiscoverySci.TecnoByte/chunks.m3u8
 http://51.222.105.5:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD
 http://51.222.105.5:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU",MX | ESPN 1 NORTE
-http://51.222.105.5:8081/tecno/Espn1.BKR/chunks.m3u8
-#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU",MX | ESPN 2 NORTE
-http://51.222.105.5:8081/tecno/Espn2.BKR/chunks.m3u8
-#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",MX | ESPN 3 NORTE
-http://51.222.105.5:8081/tecno/Espn3.BKR/chunks.m3u8
-#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://pbs.twimg.com/profile_images/996779176421019648/o1pPkhwJ_400x400.jpg",MX | FOX SPORTS 1 NORTE
-http://51.222.105.5:8081/tecno/FoxSports1.BKR/chunks.m3u8
-#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png",MX | FOX SPORTS 2 NORTE
-http://51.222.105.5:8081/tecno/FoxSports2.BKR/chunks.m3u8
-#EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1200px-Afizzionados_Logo.svg.png",MX | AFIZZIONADOS
-http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 
 
 
