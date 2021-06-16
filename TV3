@@ -5,33 +5,20 @@
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2389.m3u8
-
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO LATINO HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO LATINO HD
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2388.m3u8
-
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80652_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO 2
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2391.m3u8
-
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80118_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO Family
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2395.m3u8
-
 #EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87164_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO MUNDI
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27530.m3u8
-
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82003_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO PLUS
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2392.m3u8
-
 #EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74450_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO SIGNATURE
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2604.m3u8
-
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80115_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO XTREME
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/955.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="A&E *HD" tvg-name="A&E *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/ae_network_logo_0.png?itok=MuJbLsJN" group-title="CINEMA | HD | HQ",A&E *HD
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/948.m3u8
 #EXTINF:-1 tvg-id="A&E *HQ" tvg-name="A&E *HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/ae_network_logo_0.png?itok=MuJbLsJN" group-title="CINEMA | HD | HQ",A&E *HQ
