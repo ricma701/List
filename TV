@@ -151,25 +151,25 @@ http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 http://51.222.105.5:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 #EXTINF:-1, HBO FAMILY
 http://51.222.105.5:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PREMIUM" ,STAR CHANNEL
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png",STAR CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=46&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/135px-Star_Life_2021.svg.png" group-title="PREMIUM" ,STAR LIFE
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49263_dark_360w_270h.png",STAR LIFE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=77&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/135px-Star_Series_2020.svg.png" group-title="PREMIUM" ,STAR SERIES
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17960_dark_360w_270h.png",STAR SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=139&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/135px-Star_Hits_2020.svg.png" group-title="PREMIUM" ,STAR HITS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=146&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/135px-Star_Action_2020.svg.png" group-title="PREMIUM" ,STAR ACTION
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s73049_dark_360w_270h.png",STAR HITS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1729&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58835_dark_360w_270h.png",STAR ACTION
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=336&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/135px-Star_Fun_2020.svg.png" group-title="PREMIUM" ,STAR FUN
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65400_dark_360w_270h.png",STAR FUN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1724&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/135px-Star_Fun_2020.svg.png" group-title="PREMIUM" ,STAR FUN
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65400_dark_360w_270h.png",STAR FUN
 http://51.222.105.5:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/135px-Star_Comedy_2020.svg.png" group-title="PREMIUM" ,STAR COMEDY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1725&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/135px-Star_Cinema_2020.svg.png" group-title="PREMIUM" ,STAR CINEMA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1729&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/135px-Star_Classics_2020.svg.png" group-title="PREMIUM" ,STAR CLASSICS
+#EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s98730_dark_360w_270h.png",STAR CLASSICS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1732&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s107890_dark_360w_270h.png",MORBIDO TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=140&format=HLS&f=.m3u8
