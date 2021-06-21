@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png",CANAL 5
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=20&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png",CANAL 5
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2246&format=HLS&f=.m3u8
 
 
 #EXTINF:-1 group-title="TV ABIERTA", AZTECA UNO SD
