@@ -1,30 +1,18 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Deportes mx",adrenalina
-http://xgtv.club:8080/gratis5741740/gtv1222334/109779.ts
-#EXTINF:0 tvg-id="ext" group-title="Deportes mx",afizzionados
-http://xgtv.club:8080/gratis5741740/gtv1222334/109780.ts
-#EXTINF:0 tvg-id="AyMSports.mx" group-title="Deportes mx",aym sports
-http://xgtv.club:8080/gratis5741740/gtv1222334/109781.ts
-#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes mx",bein sports ñ
-http://xgtv.club:8080/gratis5741740/gtv1222334/109782.ts
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Deportes mx",bein sports
-http://xgtv.club:8080/gratis5741740/gtv1222334/109783.ts
-#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Deportes mx",claro sports
-http://xgtv.club:8080/gratis5741740/gtv1222334/109784.ts
-#EXTINF:0 tvg-id="ESPNHD.us" group-title="Deportes mx",espn 1
-http://xgtv.club:8080/gratis5741740/gtv1222334/109785.ts
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Deportes mx",espn 2
-http://xgtv.club:8080/gratis5741740/gtv1222334/109786.ts
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="Deportes mx",espn 3
-http://xgtv.club:8080/gratis5741740/gtv1222334/109787.ts
-#EXTINF:0 tvg-id="ESPN+.br" group-title="Deportes mx",espn plus
-http://xgtv.club:8080/gratis5741740/gtv1222334/109788.ts
-#EXTINF:0 tvg-id="ESPNDeportes.us" group-title="Deportes mx",espn deportes
-http://xgtv.club:8080/gratis5741740/gtv1222334/109789.ts
-#EXTINF:0 tvg-id="FoxSports.ar" group-title="Deportes mx",fox deportes
-http://xgtv.club:8080/gratis5741740/gtv1222334/109790.ts
+#EXTINF:0 tvg-id="ext" group-title="USA LATINO",USA Latino | Telemundo New York HD
+http://xgtv.club:8080/gratis6872849/gtv3363617/1911.ts
+#EXTINF:0 tvg-id="ext" group-title="USA LATINO",USA Latino | Telemundo Miami HD
+http://xgtv.club:8080/gratis6872849/gtv3363617/1912.ts
+#EXTINF:0 tvg-id="ext" group-title="USA LATINO",USA Latino | Telemundo Kansas HD
+http://xgtv.club:8080/gratis6872849/gtv3363617/1913.ts
+#EXTINF:0 tvg-id="ext" group-title="USA LATINO",USA Latino |  Telemundo El Paso HD
+http://xgtv.club:8080/gratis6872849/gtv3363617/1914.ts
+#EXTINF:0 tvg-id="ext" group-title="USA LATINO",USA Latino | Telemundo Los Angeles HD
+http://xgtv.club:8080/gratis6872849/gtv3363617/1915.ts
+#EXTINF:0 tvg-id="ext" group-title="USA LATINO",USA Latino | Telemundo Las Vegas HD
+http://xgtv.club:8080/gratis6872849/gtv3363617/1916.ts
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL TOTALPLAY" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png" group-title="TV Abierta",CANAL TOTALPLAY
