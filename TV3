@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,A&E
-#EXTGRP:Mexico SD
-http://xgtv.club:8080/gratis967033/gtv5157875/153688.ts
-#EXTINF:0,ADN 40
-#EXTGRP:Mexico SD
-http://xgtv.club:8080/gratis9692898/gtv5128267/38741.ts
-
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL TOTALPLAY" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png" group-title="TV Abierta",CANAL TOTALPLAY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=1973&format=HLS&f=.m3u8
