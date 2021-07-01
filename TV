@@ -254,7 +254,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2564&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://dmtn.tv:8080/images/f57ec1aa0090aec24cd88c7583d6116e.png",CLARO SPORTS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2564&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s38683_dark_360w_270h.png",TUDN
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/mptxVUO.png",TUDN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1049&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s38683_dark_360w_270h.png",TUDN HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=174&format=HLS&f=.m3u8
