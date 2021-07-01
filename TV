@@ -16,7 +16,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2037&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TV Abierta" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16461_dark_360w_270h.png",LAS ESTRELLAS -2HORAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=2264&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="LATINO", ESTRELLA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Estrella TV" tvg-logo="http://lonewolftvpr.com/logos/estrellatv.png" group-title="Latinamerica",Latino | Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png",CANAL 5
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1785&format=HLSAD&f=.m3u8
