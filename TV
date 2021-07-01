@@ -166,7 +166,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 http://51.222.105.5:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://www.foromedios.com/gallery/image/8808-star-comedy-2021-fondo-oscuro/?do=download",STAR COMEDY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1725&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://www.foromedios.com/gallery/image/8812-star-cinema-2021-fondo-oscuro/?do=download",STAR CINEMA
+#EXTINF:-1 group-title="Cine" tvg-logo="",STAR CINEMA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1729&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s98730_dark_360w_270h.png",STAR CLASSICS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1732&format=HLS&f=.m3u8
