@@ -150,7 +150,7 @@ http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 http://51.222.105.5:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80118_dark_360w_270h.png",HBO FAMILY
 http://51.222.105.5:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png",STAR CHANNEL
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.foromedios.com/gallery/image/8796-star-channel-2021-fondo-oscuro/?do=download",STAR CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=46&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49263_dark_360w_270h.png",STAR LIFE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=77&format=HLS&f=.m3u8
