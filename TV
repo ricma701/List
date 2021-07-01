@@ -164,7 +164,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1724&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65400_dark_360w_270h.png",STAR FUN
 http://51.222.105.5:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/135px-Star_Comedy_2020.svg.png" group-title="PREMIUM" ,STAR COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY" tvg-logo="https://www.foromedios.com/gallery/image/8808-star-comedy-2021-fondo-oscuro/?do=download" group-title="PREMIUM" ,STAR COMEDY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1725&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA" tvg-logo="https://www.foromedios.com/gallery/image/8812-star-cinema-2021-fondo-oscuro/?do=download" group-title="PREMIUM" ,STAR CINEMA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1729&format=HLS&f=.m3u8
