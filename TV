@@ -150,7 +150,7 @@ http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 http://51.222.105.5:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80118_dark_360w_270h.png",HBO FAMILY
 http://51.222.105.5:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png",STAR CHANNEL
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png",STAR CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=46&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49263_dark_360w_270h.png",STAR LIFE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=77&format=HLS&f=.m3u8
@@ -164,7 +164,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1724&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s65400_dark_360w_270h.png",STAR FUN
 http://51.222.105.5:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://www.foromedios.com/gallery/image/8808-star-comedy-2021-fondo-oscuro/?do=download",STAR COMEDY
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-comedy_m.png",STAR COMEDY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1725&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s71662_dark_360w_270h.png",STAR CINEMA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=1729&format=HLS&f=.m3u8
