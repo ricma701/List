@@ -68,6 +68,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=108&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s55719_dark_360w_270h.png",BOOMERANG
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=115&format=HLS&f=.m3u8
+#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72801_dark_360w_270h.png",BIT ME
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=2591&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16707_dark_360w_270h.png",NICK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=331&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s77783_dark_360w_270h.png",TEENNICK
@@ -88,8 +90,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=1984&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s56036_dark_360w_270h.png",BABY TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=116&format=HLS&f=.m3u8
-#EXTINF:-1 group-title="Animación" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72801_dark_360w_270h.png",BIT ME
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=2591&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="TPLEY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngk.png",NAT GEO KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=2373&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90309_dark_360w_270h.png",ANTENA 3
